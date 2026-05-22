@@ -1,1 +1,1 @@
-# Plugin Test File\n\nThis file was created by FrancoisGPT GitHub plugin test on 2026-05-22.\nTesting push_file write operation.\n
+# Plugin Test File\nCreated by FrancoisGPT plugin test on 2026-05-22.\nThis file tests the push_file capability.\n
